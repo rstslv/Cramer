@@ -1,0 +1,14 @@
+W:\Cramer_seq\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.exe.config
+W:\Cramer_seq\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.exe
+W:\Cramer_seq\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.pdb
+W:\Cramer_seq\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.csprojAssemblyReference.cache
+W:\Cramer_seq\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.csproj.CoreCompileInputs.cache
+W:\Cramer_seq\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.exe
+W:\Cramer_seq\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.pdb
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.exe.config
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.exe
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\bin\Debug\Cramer_seq.pdb
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.csprojAssemblyReference.cache
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.csproj.CoreCompileInputs.cache
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.exe
+C:\Users\rstslv\Desktop\Cramer_seq\Cramer_seq\obj\Debug\Cramer_seq.pdb
