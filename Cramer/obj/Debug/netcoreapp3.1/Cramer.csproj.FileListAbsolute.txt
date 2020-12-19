@@ -1,0 +1,13 @@
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.csprojAssemblyReference.cache
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.AssemblyInfoInputs.cache
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.AssemblyInfo.cs
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.csproj.CoreCompileInputs.cache
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.exe
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.deps.json
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.runtimeconfig.json
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.runtimeconfig.dev.json
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.dll
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\bin\Debug\netcoreapp3.1\Cramer.pdb
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.dll
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.pdb
+C:\Users\rstslv\Desktop\todo\parallel\Cramer\Cramer\obj\Debug\netcoreapp3.1\Cramer.genruntimeconfig.cache
